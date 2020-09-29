@@ -1,0 +1,90 @@
+html
+{
+	
+	background: url("https://i.imgur.com/klWlT4M.jpg") no-repeat center center fixed; /*image from backgroundcheckall.com free background download website*/
+	background-color: rgba(238,238,238,0.4);
+	/*background-blend-mode: color;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	
+   /*border: 2px solid red; */
+   
+}
+
+body
+{
+   /*border: 2px solid orange;*/ 
+   Font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   
+   
+}
+
+header
+{
+	/*border: 2px solid yellow; */
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 2em;
+	color: #330033;
+	margin: auto;
+}
+
+main
+{
+	
+	/*border: 2px solid green; */
+	
+}
+
+table
+{
+	background-color: rgba(0, 0, 0, 0.8);
+	color: #cccccc;
+	width: 70%;
+	margin: auto;
+	border: 0;
+	border-spacing: 5px;
+	padding: 50px;
+	
+	
+}
+
+td
+{
+	font-size: 1.2em;
+}
+
+th
+{
+	font-size: 1.5em;
+}
+
+tfoot
+{
+	text-align: center;
+}
+
+footer
+{
+	/*border: 2px solid blue; */
+	text-align: center;
+	margin-top: 50px;
+	font-weight: 900;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff9966;
+}
+
